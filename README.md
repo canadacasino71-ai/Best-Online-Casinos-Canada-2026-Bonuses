@@ -10,7 +10,7 @@ Our mission is to build a safer gambling environment through community feedback 
 
 ---
 
-## 🛡️ Player Protection & Dispute Resolution (E-E-A-T Focus)
+## 🛡️ Player Protection & Dispute Resolution
 
 Trust is earned. If you encounter issues with a casino (delayed payments, locked accounts, unfair terms), we provide a public platform to hold operators accountable.
 
@@ -24,7 +24,7 @@ Trust is earned. If you encounter issues with a casino (delayed payments, locked
 
 ## 🔬 Our Audit Methodology: How We Review
 
-To ensure **Expertise** and **Experience**, every review on CasinosInCanada.com undergoes a rigorous 5-stage audit:
+To ensure the highest quality standards, every review on CasinosInCanada.com undergoes a rigorous 5-stage audit:
 
 ### 1. Licensing & Security Check
 We verify active licenses from **iGaming Ontario (iGO)**, **Kahnawake Gaming Commission**, MGA, or Curacao. We also check for valid SSL encryption and KYC/AML protocols.
