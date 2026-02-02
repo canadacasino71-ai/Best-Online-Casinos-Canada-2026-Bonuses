@@ -2,7 +2,7 @@
   <img src="v1.png" alt="CasinosInCanada.com Official Logo" width="600">
   <br>
   
-  # 🇨🇦 Casinos in Canada: The Authority on Safe Online Gambling
+  # Casinos in Canada: The Authority on Safe Online Gambling
 
   [![Status: Active](https://img.shields.io/badge/Status-Active_Audit_Portal-success)](https://casinosincanada.com)
   [![Region: Canada](https://img.shields.io/badge/Region-Canada_Wide-red)](https://casinosincanada.com)
