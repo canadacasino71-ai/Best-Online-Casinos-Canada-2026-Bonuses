@@ -1,6 +1,15 @@
-# 🇨🇦 Casinos in Canada: The Authority on Safe Online Gambling
+<div align="center">
+  <img src="v1.png" alt="CasinosInCanada.com Official Logo" width="600">
+  <br>
+  
+  # 🇨🇦 Casinos in Canada: The Authority on Safe Online Gambling
 
-![Status: Active](https://img.shields.io/badge/Status-Active_Audit_Portal-success) ![Region: Canada](https://img.shields.io/badge/Region-Canada_Wide-red) ![Focus: Player_Safety](https://img.shields.io/badge/Focus-Player_Protection-blue)
+  [![Status: Active](https://img.shields.io/badge/Status-Active_Audit_Portal-success)](https://casinosincanada.com)
+  [![Region: Canada](https://img.shields.io/badge/Region-Canada_Wide-red)](https://casinosincanada.com)
+  [![Focus: Player_Safety](https://img.shields.io/badge/Focus-Player_Protection-blue)](https://casinosincanada.com/community/forum/forum2/)
+</div>
+
+<br>
 
 **Welcome to the official documentation and repository for [CasinosInCanada.com](https://casinosincanada.com).**
 
